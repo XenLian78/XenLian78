@@ -35,6 +35,6 @@ I am a strategic and tech professional who bridges the gap between **Growth Mark
 ---
 
 ### 🤝 Connect with Me
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/lianosxenofon]
 * 🌐 **Portfolio:** [xenlian78.github.io](https://xenlian78.github.io)
 * ✉️ **Email:** xenlian@yahoo.gr
