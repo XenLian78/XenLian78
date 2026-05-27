@@ -9,6 +9,7 @@ I am a strategic and tech professional who bridges the gap between **Growth Mark
 
 * **Automation & AI:** n8n workflows, Advanced Prompt Engineering, AI Agent Architectures, OpenAI API integration.
 * **Web Development:** HTML5, CSS3, JavaScript (ES6+), Webhooks, REST APIs, Git/GitHub, XML/SVG graphics.
+* **Graphic Design & UI:** Inkscape (Vector/SVG Layouts), Figma, Adobe Photoshop, Adobe Illustrator, Brand Asset Production.
 * **Growth Marketing:** Technical SEO, Google Analytics 4, Meta Ads Manager, Automated Email Flows.
 
 ---
