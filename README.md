@@ -1,7 +1,7 @@
 ## Hi there, I'm Xenofon Lianos 👋
 ### Marketing Operations & Automation Specialist | Technical Builder
 
-I am a strategic and tech-fluent professional who bridges the gap between **Growth Marketing Strategy** and **Technical Workflow Automation**. I specialize in eliminating operational bottlenecks, building custom internal enterprise tools, and architecting efficient workflows using low-code ecosystems (n8n), AI integrations, and frontend web development.
+I am a strategic and tech professional who bridges the gap between **Growth Marketing Strategy** and **Technical Workflow Automation**. I eliminating operational bottlenecks, building custom internal enterprise tools, and architecting efficient workflows using low-code ecosystems (n8n), AI integrations, and frontend web development.
 
 ---
 
@@ -9,8 +9,7 @@ I am a strategic and tech-fluent professional who bridges the gap between **Grow
 
 * **Automation & AI:** n8n workflows, Advanced Prompt Engineering, AI Agent Architectures, OpenAI API integration.
 * **Web Development:** HTML5, CSS3, JavaScript (ES6+), Webhooks, REST APIs, Git/GitHub, XML/SVG graphics.
-* **E-commerce & CMS:** Advanced Shopify Operations (Tagging, URL Structures & Filter Optimization), WordPress.
-* **Growth Marketing:** Technical SEO (Semrush), Google Analytics 4, Meta Ads Manager, Automated Email Flows.
+* **Growth Marketing:** Technical SEO, Google Analytics 4, Meta Ads Manager, Automated Email Flows.
 
 ---
 
