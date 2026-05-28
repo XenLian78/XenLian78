@@ -43,6 +43,6 @@ I am a strategic and tech professional who bridges the gap between **Growth Mark
 
 ### 🤝 Connect with Me
 * 📄 **My Resume:** [Download (PDF)](assets/Xenofon_Lianos_Marketing_Operations_CV.pdf)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/lianosxenofon]
-* 🌐 **Website-Portfolio:** [xenlian78.github.io](https://xenlian78.github.io)
+* 💼 **LinkedIn:** [Xenofon Lianos](https://www.linkedin.com/in/lianosxenofon)
+* 🌐 **Website** [xenlian78.github.io](https://xenlian78.github.io)
 * ✉️ **Email:** xenlian@yahoo.gr
