@@ -2,7 +2,7 @@
 ### Marketing Operations & Automation Specialist | Technical Builder
 
 <p align="left">
-  <a href="https://xenlian78.github.io/Xenofon_Lianos_Marketing_Operations_CV.pdf" target="_blank">
+  <a href="assets/Xenofon_Lianos_Marketing_Operations_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download%20CV%20(PDF)-06b6d4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
@@ -42,7 +42,7 @@ I am a strategic and tech professional who bridges the gap between **Growth Mark
 ---
 
 ### 🤝 Connect with Me
-* 📄 **My Resume:** [Download ATS-Proof CV (PDF)](https://xenlian78.github.io/Xenofon_Lianos_Marketing_Operations_CV.pdf)
+* 📄 **My Resume:** [Download ATS-Proof CV (PDF)](assets/Xenofon_Lianos_Marketing_Operations_CV.pdf)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/lianosxenofon]
 * 🌐 **Portfolio:** [xenlian78.github.io](https://xenlian78.github.io)
 * ✉️ **Email:** xenlian@yahoo.gr
